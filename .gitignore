@@ -1,0 +1,23 @@
+# Local credentials and machine state
+.DS_Store
+.env
+.env.*
+*.p12
+*.p8
+*.mobileprovision
+*.ipa
+*.xcarchive
+*.xcuserstate
+xcuserdata/
+DerivedData/
+build/
+__pycache__/
+*.pyc
+.venv/
+# Private captures, firmware and device recordings
+research/
+diagnostics/
+*.apk
+*.mp4
+
+dist/
